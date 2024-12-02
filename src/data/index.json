@@ -1,0 +1,82 @@
+{
+    "skills":
+    [
+        {
+    "id":1,
+    "src":"https://www.youtube.com/embed/1",
+    "title":"Frontend",
+    "description":"skdjfkjsbf"
+},
+{
+    "id":1,
+    "src":"https://www.youtube.com/embed/1",
+    "title":"Frontend",
+    "description":"skdjfkjsbf"
+},
+{
+    "id":1,
+    "src":"https://www.youtube.com/embed/1",
+    "title":"Frontend",
+    "description":"skdjfkjsbf"
+},
+{
+    "id":1,
+    "src":"https://www.youtube.com/embed/1",
+    "title":"Frontend",
+    "description":"skdjfkjsbf"
+}],
+"portfolio":
+[
+{
+    "id":1,
+    "src":"../../img/projects/hardwareShop.png",
+    "title":"Niwahana Hardware Shop",
+    "skills":"Angular , Spring Boot , MySQL , Hibernate",
+    "description":"Niwahana hardware shop is an E-commerce web application. This is an individual software project has been done by me. ",
+    "githubLink":"https://github.com/Lhtlakshan/niwahana-hardware-shop-backend"
+},
+{
+    "id":2,
+    "src":"../../img/projects/mosBurgers.png",
+    "title":"MOS Burgers",
+    "skills":"HTML , CSS , JavaScript",
+    "description":"MOS Burgers is a frontend simple POS system. This is an individual software project has been done by me.",
+    "githubLink":"https://github.com/Lhtlakshan/niwahana-hardware-shop-backend"
+},
+{
+    "id":3,
+    "src":"../../img/projects/hospital.jpg",
+    "title":"Prescription Management - WeCare System",
+    "skills":"Backend - Spring boot, Microservice, Maven, MySQL and Frontend - Angular, Typescript",
+    "description":"WeCare prescription management system is an innovative, highly reliable, and expertly developed system tailored to transform healthcare delivery. By streamlining the prescription process, it enhances accuracy, ensures compliance, and improves overall operational efficiency. Also it provides advanced capabilities and robust security.Responsibilities are Handling patients’ medical prescriptions, Full-stack development",
+    "githubLink":"https://github.com/Lhtlakshan/niwahana-hardware-shop-backend"
+},
+{
+    "id":4,
+    "src":"../../img/projects/becare.jpg",
+    "title":"Be Care",
+    "skills":"HTML , CSS , JavaScript and PHP",
+    "description":"Public Health web application. The 2 nd year group project at UCSC.I have done the Counsellor's and Meditation instructor's Functionalities of this project",
+    "githubLink":"https://github.com/Janod-Umayanga/bE-CARE"
+
+},
+{
+    "id":5,
+    "src":"../../img/projects/weather_app.png",
+    "title":"Weather Application",
+    "skills":"HTML , CSS , JavaScript and Weather APIs",
+    "description":"A real time weather application created using Weather APIs. This is an individual software project has been done by me.",
+    "githubLink":"https://github.com/Lhtlakshan/weather-app"
+
+},
+{
+    "id":6,
+    "src":"../../img/projects/portfolio.png",
+    "title":"Portfolio Website",
+    "skills":"React Js and Tailwind CSS",
+    "description":"This is my own portforlio website. In this web site created only using fronend technologies.",
+    "githubLink":"https://github.com/Lhtlakshan/niwahana-hardware-shop-backend"
+
+}
+]
+}
