@@ -43,7 +43,7 @@ function Projects() {
                 </h3>
                 <p className="mt-2 text-sm text-gray-600">{item.description}</p>
                 <a
-                  href={item.link}
+                  href={item.githubLink}
                   className="inline-block mt-4 text-blue-500 hover:underline"
                   target="_blank"
                   rel="noopener noreferrer"

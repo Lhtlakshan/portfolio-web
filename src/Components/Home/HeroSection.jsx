@@ -12,14 +12,19 @@ function HeroSection() {
           <span className="text-blue-800">Software Engineer</span>
         </h1>
         <p className="leading-relaxed text-gray-600">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
-          deserunt, sequi ipsa quo expedita quaerat nisi itaque tempora, nobis
-          quibusdam cum quasi. Architecto, suscipit! Harum fugiat cupiditate
-          suscipit eos quasi?
+          A responsible and dedicated computer science student, with a keen
+          interest in frontend , backend and full stack development.Seeking professional
+          experience, where I can effectively utilize my knowledge and skills
         </p>
-        <button className="px-6 py-3 text-lg font-medium text-white bg-blue-600 rounded-lg shadow-lg hover:bg-blue-700 focus:ring focus:ring-blue-300">
-          Get in touch
-        </button>
+
+        <a
+          href="./img/Updated_Thilina_CV.pdf"
+          download="Updated_Thilina_CV.pdf"
+        >
+          <button className="px-6 py-3 mt-5 text-lg font-medium text-white bg-blue-600 rounded-lg shadow-lg hover:bg-blue-700 focus:ring focus:ring-blue-300">
+            Download resume
+          </button>
+        </a>
       </div>
 
       {/* Right Image */}
