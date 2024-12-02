@@ -8,7 +8,7 @@ function Navbar() {
   return (
     <nav className="fixed top-0 z-10 w-full text-white bg-gray-800 shadow-md">
       <div className="flex items-center justify-between p-4">
-        <div className="text-xl font-bold">My Navbar</div>
+        <div className="text-xl font-bold">Thilina Hewage</div>
         <div className="flex space-x-6">
           <button
             className="hover:text-blue-400"
