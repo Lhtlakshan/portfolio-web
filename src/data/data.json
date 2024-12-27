@@ -15,73 +15,73 @@
             "icon":"../../img/skills/js.png"
         },
         {
-            "id":8,
+            "id":3,
             "name":"TypeScript",
             "icon":"../../img/skills/ts.png"
         },
         
         {
-            "id":6,
+            "id":4,
             "name":"CSS",
             "icon":"../../img/skills/css.jpg"
         },
         {
-            "id":1,
+            "id":5,
             "name":"React Js",
             "icon":"../../img/skills/react.png"
         },
         {
-            "id":2,
+            "id":6,
             "name":"Angular Js",
             "icon":"../../img/skills/angular.png"
         },
         {
-            "id":1,
+            "id":7,
             "name":"Spring Boot",
             "icon":"../../img/skills/spring.png"
         },
         {
-            "id":2,
+            "id":8,
             "name":"Express JS",
             "icon":"../../img/skills/express.png"
         },
         {
-            "id":1,
+            "id":9,
             "name":"Tailwind CSS",
             "icon":"../../img/skills/tailwind.png"
         },
         {
-            "id":2,
+            "id":10,
             "name":"Bootstrap",
             "icon":"../../img/skills/bootrap.jpg"
         },
         {
-            "id":1,
+            "id":11,
             "name":"MySQL",
             "icon":"../../img/skills/mysql.png"
         },
         {
-            "id":2,
+            "id":12,
             "name":"MongoDB",
             "icon":"../../img/skills/mongo.png"
         },
         {
-            "id":1,
+            "id":13,
             "name":"Git",
             "icon":"../../img/skills/git.png"
         },
         {
-            "id":2,
+            "id":14,
             "name":"Github",
             "icon":"../../img/skills/github.png"
         },
         {
-            "id":3,
+            "id":15,
             "name":"Jira",
             "icon":"../../img/skills/jira.jpg"
         },
         {
-            "id":3,
+            "id":16,
             "name":"Trello",
             "icon":"../../img/skills/trello.png"
         }
@@ -147,7 +147,7 @@
 ,
 "items":[
     {
-    "id":7,
+    "id":1,
     "tools":[
         {
             "id":1,
@@ -162,7 +162,7 @@
     "description":"skdjfkjsbf"
 },
 {
-    "id":7,
+    "id":2,
     "tools":[
         {
             "id":1,
