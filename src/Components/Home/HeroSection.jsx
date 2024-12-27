@@ -18,8 +18,8 @@ function HeroSection() {
         </p>
 
         <a
-          href="./img/Updated_Thilina_CV.pdf"
-          download="Updated_Thilina_CV.pdf"
+          href="./img/Thilina_SE.pdf"
+          download="Thilina_CV.pdf"
         >
           <button className="px-6 py-3 mt-5 text-lg font-medium text-white bg-blue-600 rounded-lg shadow-lg hover:bg-blue-700 focus:ring focus:ring-blue-300">
             Download resume

@@ -9,11 +9,11 @@ function MySkills() {
         <h2 className="text-3xl font-bold text-gray-800">My Expertise</h2>
       </div>
 
-      <div className="w-[500px] m-4 ">
+      <div className="">
         {data?.skills?.map((skill, index) => (
           <div
             key={index}
-            className="w-screen p-6 m-5 overflow-hidden duration-300 transform bg-white rounded-lg shadow-l hover:shadow-3xl hover:scale-110"
+            className="w-[100%] p-6 m-5 overflow-hidden duration-300 transform bg-white rounded-lg shadow-l hover:shadow-3xl hover:scale-110"
           >
             <h3 className="justify-center mb-3 text-2xl font-semibold text-center text-blue-600">
               {skill.title}

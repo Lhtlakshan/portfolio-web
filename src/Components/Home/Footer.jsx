@@ -21,21 +21,15 @@ const Footer = () => {
           </button>
           <button
             className="mr-3 hover:text-blue-400"
-            onClick={() => scrollToSection("Portfolio")}
-          >
-            Projects
-          </button>
-          <button
-            className="mr-3 hover:text-blue-400"
-            onClick={() => scrollToSection("AboutMe")}
-          >
-            About Me
-          </button>
-          <button
-            className="mr-3 hover:text-blue-400"
             onClick={() => scrollToSection("mySkills")}
           >
             My Skills
+          </button>
+          <button
+            className="mr-3 hover:text-blue-400"
+            onClick={() => scrollToSection("Portfolio")}
+          >
+            Projects
           </button>
         </div>
       </div>
