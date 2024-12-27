@@ -19,33 +19,12 @@
             "name":"TypeScript",
             "icon":"../../img/skills/ts.png"
         },
-        {
-            "id":3,
-            "name":"C",
-            "icon":"../../img/skills/c.png"
-        },
-        {
-            "id":4,
-            "name":"C++",
-            "icon":"../../img/skills/cpp.png"
-        },
-        {
-            "id":5,
-            "name":"Python",
-            "icon":"../../img/skills/python.jpg"
-        },
+        
         {
             "id":6,
             "name":"CSS",
             "icon":"../../img/skills/css.jpg"
-        }
-    ],
-    "title":"Programming Languages",
-    "description":"skdjfkjsbf"
-},
-{
-    "id":2,
-    "tools":[
+        },
         {
             "id":1,
             "name":"React Js",
@@ -55,14 +34,7 @@
             "id":2,
             "name":"Angular Js",
             "icon":"../../img/skills/angular.png"
-        }
-    ],
-    "title":"Frontend Frameworks",
-    "description":"skdjfkjsbf"
-},
-{
-    "id":3,
-    "tools":[
+        },
         {
             "id":1,
             "name":"Spring Boot",
@@ -72,14 +44,7 @@
             "id":2,
             "name":"Express JS",
             "icon":"../../img/skills/express.png"
-        }
-    ],
-    "title":"Backend Frameworks",
-    "description":"skdjfkjsbf"
-},
-{
-    "id":4,
-    "tools":[
+        },
         {
             "id":1,
             "name":"Tailwind CSS",
@@ -89,13 +54,7 @@
             "id":2,
             "name":"Bootstrap",
             "icon":"../../img/skills/bootrap.jpg"
-        }
-    ],
-    "title":"CSS Frameworks"
-},
-{
-    "id":5,
-    "tools":[
+        },
         {
             "id":1,
             "name":"MySQL",
@@ -105,14 +64,7 @@
             "id":2,
             "name":"MongoDB",
             "icon":"../../img/skills/mongo.png"
-        }
-    ],
-    "title":"Databases",
-    "description":"skdjfkjsbf"
-},
-{
-    "id":6,
-    "tools":[
+        },
         {
             "id":1,
             "name":"Git",
@@ -134,8 +86,8 @@
             "icon":"../../img/skills/trello.png"
         }
     ],
-    "title":"Software Tools",
-    "description":"skdjfkjsbf"
+    "title":"Technologies",
+    "description":"Technologies"
 }
 ],
 "portfolio":
