@@ -78,8 +78,8 @@ function ContactMe() {
         </div>
       </div>
       <div className="w-auto h-auto ml-6 ">
-        <img className="rounded-3xl" src="../img/contacts.jpg" alt="" />
-        <img className="rounded-3xl" src="../img/linkedin.png" alt="" />
+        <img className="rounded-3xl" src="./img/contacts.jpg" alt="" />
+        <img className="rounded-3xl" src="./img/linkedin.png" alt="" />
       </div>
     </section>
   );

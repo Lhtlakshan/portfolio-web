@@ -10,9 +10,9 @@ function MySkills() {
       </div>
 
       <div className="m-4 text-center">
-        {data?.skills?.map((skill, index) => (
+        {data?.skills?.map((skill) => (
           <div
-            key={index}
+            key={skill.id}
             className="w-screen p-6 m-5 overflow-hidden duration-300 transform bg-white rounded-lg shadow-l hover:shadow-3xl hover:scale-110"
           >
             <h3 className="justify-center mb-3 text-2xl font-semibold text-center text-blue-600">
@@ -20,14 +20,14 @@ function MySkills() {
             </h3>
               <div className="flex flex-row">
                 {skill.tools.map((tool) => (
-                  <img className="w-10 h-10 m-2" src={tool.icon} />
+                  <img key={tool.id} className="w-10 h-10 m-2" src={tool.icon} />
                 ))}
               </div>
           </div>
         ))}
       </div>
 
-      <div className="grid grid-cols-1 gap-8 px-4 mx-auto mt-8 sm:grid-cols-2 lg:grid-cols-3 max-w-7xl">
+      {/* <div className="grid grid-cols-1 gap-8 px-4 mx-auto mt-8 sm:grid-cols-2 lg:grid-cols-3 max-w-7xl">
         {data?.items?.map((item, index) => (
           <div
             key={index}
@@ -43,7 +43,7 @@ function MySkills() {
             ))}
           </div>
         ))}
-      </div>
+      </div> */}
     </section>
   );
 }

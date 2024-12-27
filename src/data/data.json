@@ -2,88 +2,87 @@
     "skills":
     [
         {
-    "id":1,
-    "tools":[
+        "id":1,
+        "tools":[
         {
             "id":1,
             "name":"Java",
-            "icon":"../../img/skills/java.jpg"
+            "icon":"./img/skills/java.jpg"
         },
         {
             "id":2,
-            "name":"Javascript",
-            "icon":"../../img/skills/js.png"
+            "name":"JavaScript",
+            "icon":"./img/skills/js.png"
         },
         {
             "id":3,
             "name":"TypeScript",
-            "icon":"../../img/skills/ts.png"
+            "icon":"./img/skills/ts.png"
         },
-        
         {
             "id":4,
             "name":"CSS",
-            "icon":"../../img/skills/css.jpg"
+            "icon":"./img/skills/css.jpg"
         },
         {
             "id":5,
             "name":"React Js",
-            "icon":"../../img/skills/react.png"
+            "icon":"./img/skills/react.png"
         },
         {
             "id":6,
             "name":"Angular Js",
-            "icon":"../../img/skills/angular.png"
+            "icon":"./img/skills/angular.png"
         },
         {
             "id":7,
             "name":"Spring Boot",
-            "icon":"../../img/skills/spring.png"
+            "icon":"./img/skills/spring.png"
         },
         {
             "id":8,
             "name":"Express JS",
-            "icon":"../../img/skills/express.png"
+            "icon":"./img/skills/express.png"
         },
         {
             "id":9,
             "name":"Tailwind CSS",
-            "icon":"../../img/skills/tailwind.png"
+            "icon":"./img/skills/tailwind.png"
         },
         {
             "id":10,
             "name":"Bootstrap",
-            "icon":"../../img/skills/bootrap.jpg"
+            "icon":"./img/skills/bootrap.jpg"
         },
         {
             "id":11,
             "name":"MySQL",
-            "icon":"../../img/skills/mysql.png"
+            "icon":"./img/skills/mysql.png"
         },
         {
             "id":12,
             "name":"MongoDB",
-            "icon":"../../img/skills/mongo.png"
+            "icon":"./img/skills/mongo.png"
         },
         {
             "id":13,
             "name":"Git",
-            "icon":"../../img/skills/git.png"
+            "icon":"./img/skills/git.png"
         },
         {
             "id":14,
             "name":"Github",
-            "icon":"../../img/skills/github.png"
+            "icon":"./img/skills/github.png"
         },
         {
             "id":15,
             "name":"Jira",
-            "icon":"../../img/skills/jira.jpg"
+            "icon":"./img/skills/jira.jpg"
         },
         {
             "id":16,
             "name":"Trello",
-            "icon":"../../img/skills/trello.png"
+            "icon":"./img/skills/trello.png"
         }
     ],
     "title":"Technologies",
@@ -92,9 +91,10 @@
 ],
 "portfolio":
 [
+
 {
     "id":1,
-    "src":"../../img/projects/hardwareShop.png",
+    "src":"./img/projects/hardwareShop.png",
     "title":"Niwahana Hardware Shop",
     "skills":"Angular , Spring Boot , MySQL , Hibernate",
     "description":"Niwahana hardware shop is an E-commerce web application. This is an individual software project has been done by me. ",
@@ -102,7 +102,7 @@
 },
 {
     "id":2,
-    "src":"../../img/projects/mosBurgers.png",
+    "src":"./img/projects/mosBurgers.png",
     "title":"MOS Burgers",
     "skills":"HTML , CSS , JavaScript",
     "description":"MOS Burgers is a frontend simple POS system. This is an individual software project has been done by me.",
@@ -110,7 +110,7 @@
 },
 {
     "id":3,
-    "src":"../../img/projects/hospital.jpg",
+    "src":"./img/projects/hospital.jpg",
     "title":"Prescription Management - WeCare System",
     "skills":"Backend - Spring boot, Microservice, Maven, MySQL and Frontend - Angular, Typescript",
     "description":"WeCare prescription management system is an innovative, highly reliable, and expertly developed system tailored to transform healthcare delivery. By streamlining the prescription process, it enhances accuracy, ensures compliance, and improves overall operational efficiency. Also it provides advanced capabilities and robust security.Responsibilities are Handling patients’ medical prescriptions, Full-stack development",
@@ -118,7 +118,7 @@
 },
 {
     "id":4,
-    "src":"../../img/projects/becare.jpg",
+    "src":"./img/projects/becare.jpg",
     "title":"Be Care",
     "skills":"HTML , CSS , JavaScript and PHP",
     "description":"Public Health web application. The 2 nd year group project at UCSC.I have done the Counsellor's and Meditation instructor's Functionalities of this project",
@@ -127,7 +127,7 @@
 },
 {
     "id":5,
-    "src":"../../img/projects/weather_app.png",
+    "src":"./img/projects/weather_app.png",
     "title":"Weather Application",
     "skills":"HTML , CSS , JavaScript and Weather APIs",
     "description":"A real time weather application created using Weather APIs. This is an individual software project has been done by me.",
@@ -136,7 +136,7 @@
 },
 {
     "id":6,
-    "src":"../../img/projects/portfolio.png",
+    "src":"./img/projects/portfolio.png",
     "title":"Portfolio Website",
     "skills":"React Js and Tailwind CSS",
     "description":"This is my own portforlio website. In this web site created only using fronend technologies.",
