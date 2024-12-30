@@ -23,7 +23,7 @@ const Experience = () => {
                   (June 2024 - Present)
                 </p>
                 <div className="text-gray-600 skills">
-                  Skills : Angular , Spring Boot , MySql , Html , Tailwind CSS ,
+                  Skills : Angular , Spring Boot , MySql , Tailwind CSS ,
                   React JS
                 </div>
               </div>
