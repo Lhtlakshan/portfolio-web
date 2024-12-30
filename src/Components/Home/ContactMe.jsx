@@ -53,12 +53,12 @@ function ContactMe() {
             <div>
               <p className="text-sm text-gray-500">Webpage</p>
               <a
-                href="https://www.johndoe.com"
+                href="https://lhtlakshan.github.io/portfolio-web/"
                 className="font-medium text-blue-500 hover:underline"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                www.johndoe.com
+                https://lhtlakshan.github.io/portfolio-web/
               </a>
             </div>
           </div>
