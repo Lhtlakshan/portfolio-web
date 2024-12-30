@@ -18,6 +18,12 @@ function Navbar() {
           </button>
           <button
             className="hover:text-blue-400"
+            onClick={() => scrollToSection("work-experience")}
+          >
+            Experience
+          </button>
+          <button
+            className="hover:text-blue-400"
             onClick={() => scrollToSection("Portfolio")}
           >
             Projects
