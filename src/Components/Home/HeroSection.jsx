@@ -4,7 +4,7 @@ function HeroSection() {
   return (
     <section
       id="heroSection"
-      className="flex flex-col-reverse items-start justify-start px-6 pt-16 h-[75%] md:flex-row md:px-16 lg:px-32 bg-slate-200 pb-5"
+      className="flex flex-col-reverse items-start justify-start px-6 pt-16 h-[75%] md:flex-row md:px-16 lg:px-32 bg-gray-300 pb-5"
     >
       <div className="space-y-6 text-center md:w-1/2 md:text-left">
         <p className="text-lg font-medium text-gray-600">Hey, I'm Thilina</p>
@@ -27,12 +27,11 @@ function HeroSection() {
         </a>
       </div>
 
-      {/* Right Image */}
       <div className="flex justify-center md:w-1/2">
         <img
-          src="./img/thilina.jpg"
+          src="./img/thilina_updated.jpg"
           alt="Thilina"
-          className="object-cover rounded-full shadow-lg w-80 h-80"
+          className="object-cover rounded-full shadow-xl w-80 h-80"
         />
       </div>
     </section>
