@@ -14,13 +14,13 @@ const Experience = () => {
               <div className="p-6 mb-4 overflow-hidden duration-300 transform border rounded-lg shadow hover:shadow-3xl hover:scale-110 w-xl bg-slate-200 dark:border-gray-700">
                 <a href="#">
                   <h5 className="mb-2 text-2xl font-bold tracking-tight text-black">
-                    Trainee Full stack Developer
+                    Trainee Software Engineer
                   </h5>
                 </a>
                 <p className="mb-3 font-normal text-gray-700">
-                  Institute of Computer Engineering Technology.
+                  iZone Solutions (Pvt) Ltd.
                   <br />
-                  (June 2024 - Present)
+                  (Jan 2025 - Present)
                 </p>
                 <div className="text-gray-600 skills">
                   Skills : Angular , Spring Boot , MySql , Tailwind CSS , React
