@@ -18,7 +18,7 @@ const Experience = () => {
                   </h5>
                 </a>
                 <p className="mb-3 font-normal text-gray-700">
-                  iZone Solutions (Pvt) Ltd.
+                  UniverSL Software (Pvt) Ltd.
                   <br />
                   (Jan 2025 - Present)
                 </p>
