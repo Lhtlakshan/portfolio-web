@@ -10,8 +10,8 @@ const Experience = () => {
           </h2>
 
           <div className="flex flex-col items-center justify-center">
-            <div className="flex flex-col max-w-2xl">
-              <div className="p-6 mb-4 overflow-hidden duration-300 transform border rounded-lg shadow hover:shadow-3xl hover:scale-110 w-xl bg-slate-200 dark:border-gray-700">
+            <div className="flex max-row-2xl flex-">
+              <div className="p-6 mb-4 mr-8 duration-300 transform border rounded-lg shadow mroverflow-hidden hover:shadow-3xl hover:scale-110 w-xl bg-slate-200 dark:border-gray-700">
                 <a href="#">
                   <h5 className="mb-2 text-2xl font-bold tracking-tight text-black">
                     Trainee Software Engineer
