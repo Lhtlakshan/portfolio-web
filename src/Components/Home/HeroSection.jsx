@@ -13,12 +13,13 @@ function HeroSection() {
         </h1>
         <p className="leading-relaxed text-gray-600">
           A responsible and dedicated computer science student, with a keen
-          interest in frontend , backend and full stack development.Seeking
-          professional experience, where I can effectively utilize my knowledge
-          and skills
+          interest in and{" "}
+          <b>full stack development (Java , Spring boot , React , Angular)</b>
+          .Seeking professional experience, where I can effectively utilize my
+          knowledge and skills
         </p>
 
-        <a href="./img/Thilina_Lakshan_Hewage_SE.pdf" download="Thilina_Lakshan_CV.pdf">
+        <a href="./img/Thilina_Hewage_SE.pdf" download="Thilina_Hewage_SE.pdf">
           <button className="px-6 py-3 mt-5 text-lg font-medium text-white bg-blue-600 rounded-lg shadow-lg hover:bg-blue-700 focus:ring focus:ring-blue-300">
             Download resume
           </button>
