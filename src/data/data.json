@@ -97,7 +97,7 @@
     "src":"./img/projects/hardwareShop.png",
     "title":"Niwahana Hardware Shop",
     "skills":"Angular , Spring Boot , MySQL , Hibernate",
-    "description":"Niwahana hardware shop is an E-commerce web application. This is an individual software project has been done by me. ",
+    "description":"Niwahana Hardware Shop is a full-stack E-commerce web application designed to facilitate the online purchase of hardware products. This project, developed individually by me, includes essential features such as user authentication, product management, a shopping cart and order processing. The frontend is built using Angular for a dynamic and responsive user experience, while the backend is powered by Spring Boot with MySQL and Hibernate for efficient data management. The system also implements role-based access control for administrators and customers.",
     "githubLink":"https://github.com/Lhtlakshan/niwahana-hardware-shop-backend"
 },
 {
@@ -105,7 +105,7 @@
     "src":"./img/projects/mosBurgers.png",
     "title":"MOS Burgers",
     "skills":"HTML , CSS , JavaScript",
-    "description":"MOS Burgers is a frontend simple POS system. This is an individual software project has been done by me.",
+    "description":"MOS Burgers is a simple yet interactive Point of Sale (POS) system designed for managing fast-food restaurant orders efficiently. This project, developed individually by me, focuses on frontend functionalities, providing an intuitive user interface for selecting menu items, processing orders, and calculating totals. Built using HTML, CSS, and JavaScript, the system ensures a seamless experience with dynamic UI components and real-time order updates. The project demonstrates essential POS system concepts such as item selection, cart management, and basic transaction handling.",
     "githubLink":"https://github.com/Lhtlakshan/niwahana-hardware-shop-backend"
 },
 {
