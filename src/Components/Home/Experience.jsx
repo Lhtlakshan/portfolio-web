@@ -10,13 +10,16 @@ import {
 const Experience = () => {
   return (
     <div>
-      <section className="mb-8 work-experience" id="work-experience">
+      <section
+        className="mb-8 work-experience bg-slate-100"
+        id="work-experience"
+      >
         <div>
-          <h2 className="mt-8 mb-6 text-3xl font-bold text-center text-gray-800">
+          <h2 className="mt-8 mb-6 text-3xl font-bold text-center text-gray-800 pt-8">
             Work Experience
           </h2>
 
-          <div className="flex flex-col items-center justify-center">
+          <div className="flex flex-col items-center justify-cente">
             <div className="flex-col max-row-2xl">
               <div className="relative p-6 mb-6 mr-8 transform rounded-lg shadow-xl transition-all duration-300 bg-white hover:shadow-2xl hover:scale-105 w-xl border border-gray-300">
                 <a href="#" className="group">
@@ -27,8 +30,8 @@ const Experience = () => {
                 </a>
 
                 <p className="mb-3 text-gray-700 text-lg font-medium">
-                  UniverSL Software (Pvt) Ltd. <br />
-                  <span className="text-sm text-gray-500">
+                  UniverSL Software (Pvt) Ltd.
+                  <span className="text-sm text-gray-500 ml-4">
                     (Jan 2025 - Present)
                   </span>
                 </p>
@@ -40,7 +43,8 @@ const Experience = () => {
                       <span className="font-semibold text-gray-900">
                         Technical Skills:
                       </span>{" "}
-                      Java, Spring Boot, Hibernate , Spring Security with Jwt Authentication , MySQL
+                      Java, Spring Boot, Hibernate , Spring Security with Jwt
+                      Authentication , MySQL
                     </span>
                   </div>
 
@@ -95,8 +99,8 @@ const Experience = () => {
                 </a>
 
                 <p className="mb-3 text-gray-700 text-lg font-medium">
-                  Zebra Technologies Lanka (Pvt) Ltd. <br />
-                  <span className="text-sm text-gray-500">
+                  Zebra Technologies Lanka (Pvt) Ltd.
+                  <span className="text-sm text-gray-500 ml-4">
                     (Dec 2023 - Jun 2024)
                   </span>
                 </p>
